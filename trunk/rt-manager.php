@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Custom Post Type and Taxonomy GUI by rtManager
-Plugin URI: http://rtcamp.com/
-Description:This Plugin by rtCamp gives ability to user who doesn't know programming in wordpress , to create custom post types, custom taxonomies, management and assosiation of these in backend etc.
+Plugin Name: Custom Post Type and Taxonomy GUI Manager
+Plugin URI: http://alnobody70.wordpress.com
+Description:This Plugin by gives ability to user who doesn't know programming in wordpress , to create custom post types, custom taxonomies, management and assosiation of these in backend etc.
 Version: 1.0
 Author: rtCamp
-Author URI: http://rtcamp.com
+Author URI: http://alnobody70.wordpress.com
 License: A "Slug" license name e.g. GPL2
 */
 

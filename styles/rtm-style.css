@@ -1,0 +1,16 @@
+/**
+* Style for rtManager Plugin.
+*/
+
+#rtm-manager-form{ border: 1px solid #999; padding: 15px; width: 90%; box-shadow: 6px 6px 6px #DDD }
+
+.fields-container{ clear: both; width: 50%; margin-bottom: 20px; overflow: hidden }
+    .fields-container label{ float: left; font-weight: bold; }
+    .fields-container input{ float: right; width: 66%; }
+    
+.rtm-list li label{ margin-left: 15px; }
+
+#rt-submit{ background: #8B8378; color: #FFF; height: 24px; line-height: 24px; padding: 0 10px; cursor: pointer; border: 1px solid #FFF; }
+    #rt-submit:hover{ border: 1px solid #000 }
+.rtm-help{ background: url('../images/help_and_support.png') no-repeat 117px 0px; display: inline-block; width: 155px; }
+.rtm-alignright{ float: right; clear: both; color: #EE3B3B }

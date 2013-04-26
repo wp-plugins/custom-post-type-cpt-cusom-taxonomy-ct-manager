@@ -1,5 +1,5 @@
 === Custom Post Type and Taxonomy GUI Manager ===
-Contributors: alnobody70
+Contributors: ankitgadertcampcom
 Tags: cpt ct manager, CPT-CT-Manager , cpt-ct-manager ,custom post type, post, post type, custom taxonomy, taxonomy, tags
 Requires at least: 3.0
 Tested up to: 3.5

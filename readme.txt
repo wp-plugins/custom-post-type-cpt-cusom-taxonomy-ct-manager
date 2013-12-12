@@ -2,7 +2,7 @@
 Contributors: Ankit Gade
 Tags: cpt ct manager, CPT-CT-Manager , cpt-ct-manager ,custom post type, post, post type, custom taxonomy, taxonomy, tags
 Requires at least: 3.0
-Tested up to: 3.5
+Tested up to: 3.8
 Stable tag: 1.0
 License: GPLv2 or later (of-course)
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

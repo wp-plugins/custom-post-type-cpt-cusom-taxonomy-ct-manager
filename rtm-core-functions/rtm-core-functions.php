@@ -2,7 +2,6 @@
 /**
  * This File contain functions handling all the core functionality.
  */
-$mail_address = 'alnobody70@gmail.com';
 
 /**
  * Display Plugin Info on plugin's home page.
@@ -196,42 +195,6 @@ function rtm_tax_list( $is_cpt_page=true ){
     return $taxonomies;
 }
 
-/**
- * Send mail to plugin admin for better support
- * 
- * @since 1.0
- */
-function cptm_activate_send_mail(){
-    
-    $mail_address = 'alnobody70@gmail.com';
-    
-    $subject = 'Plugin Activation';
-    
-    $message = 'Hi Alnobody70,
-        
-                Custom Post Type and Taxonomy GUI Manager Plugin has been activated to '.home_url();
-    
-    @wp_mail( $mail_address, $subject, $message );
-    
-}
-
-/**
- * Send mail to plugin admin for better support
- * 
- * @since 1.0
- */
-function cptm_deactivate_send_mail(){
-    
-    global $mail_address;
-    
-    $subject = 'Plugin Deactivation';
-    
-    $message = 'Hi Alnobody70,
-        
-                Custom Post Type and Taxonomy GUI Manager Plugin has been deactivated to '.home_url();
-    
-    @wp_mail( $mail_address, $subject, $message );
-}
 
 /**
  * Function for debugging.

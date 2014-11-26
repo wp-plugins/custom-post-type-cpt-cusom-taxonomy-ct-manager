@@ -2,8 +2,8 @@
 Contributors: ankitgadertcampcom
 Tags: cpt ct manager, CPT-CT-Manager , cpt-ct-manager ,custom post type, post, post type, custom taxonomy, taxonomy, tags
 Requires at least: 3.0
-Tested up to: 3.8
-Stable tag: 1.0
+Tested up to: 4.0.1
+Stable tag: 1.1
 License: GPLv2 or later (of-course)
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,6 +45,11 @@ Activate it through the 'Plugins' section.
 
 == Screenshots ==
 Please visit [CPT CT GUI Manager Plugin's Homepage] (http://alnobody70.files.wordpress.com/2012/12/cpt-ct-manager.png "CPT CT GUI manager page")
+
+== Changelog ==
+
+= 1.1 =
+* Mail notification function removed.
 
 == Frequently Asked Questions ==
 

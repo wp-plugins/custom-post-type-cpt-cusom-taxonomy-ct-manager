@@ -115,7 +115,4 @@ function rtm_form_new_post_types(){
             }
         }
 }
-add_action( 'init', 'rtm_form_new_post_types',9 ); 
-
-register_activation_hook( __FILE__, 'cptm_activate_send_mail' );
-register_deactivation_hook( __FILE__, 'cptm_deactivate_send_mail' ); ?>
+add_action( 'init', 'rtm_form_new_post_types',9 ); ?>
